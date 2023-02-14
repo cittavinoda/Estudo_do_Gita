@@ -1,0 +1,170 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor0: #01017ae0;
+    --cor1: #0000ff5d;
+    --cor2: #2828f15d;
+    --cor3: #5f5ff45d;
+    --cor4: #8686f45d;
+    --cor5: #adadf75d;
+    --cor6: #05e7fb5d;
+    --cor7: #28cbda5d;
+    --cor8: #48afb85d;
+}
+body{
+    background-color: var(--cor7);
+}
+main{
+    background-color: var(--cor4);
+    width: 900px;
+    display: block;
+    margin: auto;
+}
+.titulo{
+    background-color: var(--cor0);
+    color: white;
+    font-size: 25px;
+    padding: 20px;
+}
+.subtitulo1{
+    background-color: var(--cor3);
+    padding: 10px;
+}
+article{
+    width: 800px;
+    margin: auto;
+    background-color: var(--cor4);
+}
+.texto1 p{
+    padding: 20px 10px 5px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto1 img{
+    padding: 20px 10px 10px 10px;
+    display: block;
+    float: left;
+}
+.citacao1{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.texto2 p{
+    padding: 20px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.citacao2{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.texto3 p{
+    padding: 20px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto4 p{
+    padding: 20px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto4 img{
+    padding: 20px 10px 5px 10px;
+    display: block;
+    float: left; 
+}
+.citacao3{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.texto5 p{
+    padding: 20px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.citacao4{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.texto6 img{
+    display: block;
+    float: right;
+    padding: 10px 10px 0px 10px;
+}
+.texto6 p{
+    padding: 10px 10px 10px 20px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto7 p{
+    padding: 0px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto7 img{
+    display: block;
+    float: left;
+    padding: 10px;
+}
+.subtitulo2{
+    background-color: var(--cor3);
+    padding: 10px;
+}
+.texto8 p{
+    padding: 10px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto8 img{
+    display: block;
+    float: right;
+    padding: 15px 10px 0px 10px;
+}
+.subtitulo3{
+    background-color: var(--cor3);
+    padding: 10px;
+}
+.texto9{
+    display: block;
+}
+.texto9 p{
+    padding: 20px 10px 10px 10px;
+    text-indent: 30px;
+    text-align: justify;
+}
+.texto9 img{
+    padding: 20px 10px 5px 10px;
+    display: block;
+    float: left;
+}
+.subtitulo4{
+    background-color: var(--cor3);
+    padding: 10px;
+}
+.texto10 .imagem4{
+    display: block;
+    float: right;
+    padding: 10px;
+}
+.texto10 p{
+    text-indent: 30px;
+    padding: 10px;
+    text-align: justify;
+}
+.citacao5{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.citacao6{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
+.citacao7{
+    padding: 20px 10px 20px 80px;
+    text-align: justify;
+}
